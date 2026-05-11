@@ -1,0 +1,11 @@
+debug/main.o
+debug/Student.o
+debug/UndergraduateStudent.o
+debug/GraduateStudent.o
+debug/PhDStudent.o
+debug/StudentManager.o
+debug/PersistenceManager.o
+debug/MainWindow.o
+debug/StudentDialog.o
+debug/moc_MainWindow.o
+debug/moc_StudentDialog.o

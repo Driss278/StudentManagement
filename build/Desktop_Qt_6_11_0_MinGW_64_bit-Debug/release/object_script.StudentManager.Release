@@ -1,0 +1,11 @@
+release/main.o
+release/Student.o
+release/UndergraduateStudent.o
+release/GraduateStudent.o
+release/PhDStudent.o
+release/StudentManager.o
+release/PersistenceManager.o
+release/MainWindow.o
+release/StudentDialog.o
+release/moc_MainWindow.o
+release/moc_StudentDialog.o
